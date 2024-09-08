@@ -1,1 +1,0 @@
-# archery-timer-app
